@@ -2,8 +2,6 @@ import py_cui       # Pour l'interface
 import time         # Pour le loading popup
 import threading    # Pour le loading popup
 import os           # Pour le file manager 
-from createfolder import *
-
 
 ###############################################################################################
 #                                                                                             #                                        
